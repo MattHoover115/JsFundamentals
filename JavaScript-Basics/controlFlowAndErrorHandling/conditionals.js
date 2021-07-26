@@ -317,4 +317,3 @@ character === "Dwight" ? console.log(`It's not weed! It's hemp!`) :
 character === "Jim" ? console.log(`Bears. Beets. Battlestar Galactica.`) :
 console.log(`*Slow camera zoom*`)
 
-let student = { name: "Peter", awesome: true, degree: "JavaScript", week: 1}
